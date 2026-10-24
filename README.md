@@ -6,6 +6,16 @@ Me gusta explorar nuevas tecnologías, experimentar con ideas y convertirlas en 
 
 [Portafolio](https://juan-coronado.github.io/) · [LinkedIn](https://www.linkedin.com/in/juan-antonio-coronado-palacios-6100b6329/) · [Correo](mailto:juanantoniocoronadopalacios@gmail.com)
 
+## Proyecto en equipo: CargoMesh 2
+
+Desarrollamos en grupo una plataforma de coordinación logística para clientes y empresas transportistas. Reúne solicitudes, ofertas, reservas y vistas de seguimiento, con servicios backend, datos por organización, asistencia conversacional Nova, mapas e integración MCP autenticada.
+
+El proyecto incorpora visualización 3D con **23 diseños de camiones y 15 arquitecturas de sedes**. Utiliza TypeScript, Next.js, React, Hono, Supabase/PostgreSQL, Three.js, Google Maps Platform, Python, Amazon Bedrock Nova, AWS y Vercel. Esta es una presentación del trabajo del equipo, sin atribuir todos sus componentes a una sola persona.
+
+[Ver CargoMesh](https://cargomesh.vercel.app/) · [Repositorio del equipo](https://github.com/Chujutak2024/cargomesh) · [Caso de portafolio](https://juan-coronado.github.io/projects/cargomesh/)
+
+Proyecto en evolución y participante de Build, Ship, Shape: Amazon Developer Hackathon 2026. Las escenas 3D son referencias visuales; no representan GPS ni flota real.
+
 ## Tecnologías que he utilizado o explorado
 
 <p>
@@ -40,6 +50,7 @@ Ordenados por dificultad académica, de mis primeros programas a problemas con e
 | Avanzada | [JImport: migración de datos](https://github.com/Juan-Coronado/jimport-oracle) | 2024-II | SQL Server, Oracle 19c, Migración |
 | Avanzada | [EuroSky Connect](https://github.com/Juan-Coronado/eurosky-connect) | Junio de 2026 | C++, JavaScript, Grafos |
 | Avanzada | [Multimedia hospitalaria](https://github.com/Juan-Coronado/multimedia-hospitalaria) | Junio de 2026 | C++17, Hash y trie, Árbol rojo-negro |
+| Avanzada | [CargoMesh 2 · en equipo](https://github.com/Chujutak2024/cargomesh) | Septiembre–octubre de 2026 | Next.js, TypeScript, backend, IA, mapas y 3D |
 
 JImport es un caso documentado, sin una migración Oracle ejecutada. Las fechas corresponden a los trabajos originales; los repositorios identifican por separado la revisión asistida de octubre de 2026 y el contexto académico de cada entrega.
 
