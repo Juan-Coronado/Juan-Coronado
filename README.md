@@ -6,15 +6,27 @@ Me gusta explorar nuevas tecnologías, experimentar con ideas y convertirlas en 
 
 [Portafolio](https://juan-coronado.github.io/) · [LinkedIn](https://www.linkedin.com/in/juan-antonio-coronado-palacios-6100b6329/) · [Correo](mailto:juanantoniocoronadopalacios@gmail.com)
 
-## Proyecto en equipo: CargoMesh 2
+## CargoMesh: dos hackatones internacionales, un proyecto en equipo
 
-Desarrollamos en grupo una plataforma de coordinación logística para clientes y empresas transportistas. Reúne solicitudes, ofertas, reservas y vistas de seguimiento, con servicios backend, datos por organización, asistencia conversacional Nova, mapas e integración MCP autenticada.
+### CargoMesh 1 — OpenAI · The WebMCP Challenge
 
-El proyecto incorpora visualización 3D con **23 diseños de camiones y 15 arquitecturas de sedes**. Utiliza TypeScript, Next.js, React, Hono, Supabase/PostgreSQL, Three.js, Google Maps Platform, Python, Amazon Bedrock Nova, AWS y Vercel. Esta es una presentación del trabajo del equipo, sin atribuir todos sus componentes a una sola persona.
+Desarrollamos en grupo la primera versión de CargoMesh para conectar solicitudes de transporte B2B, portales de proveedores y agentes mediante **WebMCP**. Trabajamos en consulta de cobertura y capacidad, cotizaciones, comparación de ofertas, reservas y resultados persistidos, manteniendo el control humano sobre las decisiones comerciales.
 
-[Ver CargoMesh](https://cargomesh.vercel.app/) · [Repositorio del equipo](https://github.com/Chujutak2024/cargomesh) · [Caso de portafolio](https://juan-coronado.github.io/projects/cargomesh/)
+Participamos en **The WebMCP Challenge**, organizada por **OpenAI**, del **25 de agosto al 4 de septiembre de 2026**. La arquitectura de esta etapa combina Next.js, React, TypeScript y Supabase/PostgreSQL, con herramientas WebMCP expuestas por los proveedores.
 
-Proyecto en evolución y participante de Build, Ship, Shape: Amazon Developer Hackathon 2026. Las escenas 3D son referencias visuales; no representan GPS ni flota real.
+[Hackatón de OpenAI](https://webmcp.devpost.com/) · [Participación en Devpost](https://devpost.com/software/cargomesh) · [Caso de CargoMesh 1](https://juan-coronado.github.io/projects/cargomesh-1/)
+
+### CargoMesh 2 — Amazon · Build, Ship, Shape
+
+Evolucionamos el producto en equipo para **Build, Ship, Shape: Amazon Developer Hackathon 2026**. La segunda etapa reúne portales Cliente y Carrier, solicitudes, ofertas, reservas y vistas de seguimiento, con backend compartido, datos por organización, asistencia conversacional Nova, mapas e integración MCP autenticada.
+
+El proyecto incorpora visualización 3D con **23 diseños de camiones y 15 arquitecturas de sedes**. Utiliza TypeScript, JavaScript, Python, SQL, Next.js, React, Hono, Supabase/PostgreSQL, Three.js, Google Maps Platform, Amazon Bedrock Nova, AWS y Vercel, entre otras herramientas del equipo.
+
+La convocatoria de **Amazon** admitió entregas del **31 de agosto al 23 de octubre de 2026**. La documentación identifica Alexa+ como línea principal y trabajo relacionado con AWS Builder y Open Source. El calendario oficial prevé anunciar ganadores el **3 de diciembre de 2026**; no se afirma un resultado final.
+
+[Hackatón de Amazon](https://amazonappdev2026.devpost.com/) · [Ver CargoMesh](https://cargomesh.vercel.app/) · [Repositorio del equipo](https://github.com/Chujutak2024/cargomesh) · [Caso de CargoMesh 2](https://juan-coronado.github.io/projects/cargomesh/)
+
+Ambas experiencias reconocen el desarrollo conjunto, sin atribuir todos sus componentes a una sola persona. Las escenas 3D son referencias visuales, no GPS ni flota real; la experiencia web con Nova y MCP no equivale a una integración Alexa+ verificada en un dispositivo Echo.
 
 ## Tecnologías que he utilizado o explorado
 
@@ -36,7 +48,7 @@ Las he utilizado en proyectos académicos o explorado durante mi formación. Cad
 
 ## Proyectos y aprendizaje
 
-Ordenados por dificultad académica, de mis primeros programas a problemas con estructuras de datos y algoritmos.
+Ordenados por dificultad, desde mis primeros programas hasta sistemas con estructuras de datos, algoritmos e integración de servicios.
 
 | Dificultad | Proyecto | Periodo original | Tecnologías y conceptos |
 | --- | --- | --- | --- |
@@ -50,6 +62,7 @@ Ordenados por dificultad académica, de mis primeros programas a problemas con e
 | Avanzada | [JImport: migración de datos](https://github.com/Juan-Coronado/jimport-oracle) | 2024-II | SQL Server, Oracle 19c, Migración |
 | Avanzada | [EuroSky Connect](https://github.com/Juan-Coronado/eurosky-connect) | Junio de 2026 | C++, JavaScript, Grafos |
 | Avanzada | [Multimedia hospitalaria](https://github.com/Juan-Coronado/multimedia-hospitalaria) | Junio de 2026 | C++17, Hash y trie, Árbol rojo-negro |
+| Avanzada | [CargoMesh 1 · hackatón OpenAI](https://juan-coronado.github.io/projects/cargomesh-1/) | Agosto–septiembre de 2026 | TypeScript, React, WebMCP y Supabase |
 | Avanzada | [CargoMesh 2 · en equipo](https://github.com/Chujutak2024/cargomesh) | Septiembre–octubre de 2026 | Next.js, TypeScript, backend, IA, mapas y 3D |
 
 JImport es un caso documentado, sin una migración Oracle ejecutada. Las fechas corresponden a los trabajos originales; los repositorios identifican por separado la revisión asistida de octubre de 2026 y el contexto académico de cada entrega.
@@ -59,5 +72,6 @@ JImport es un caso documentado, sin una migración Oracle ejecutada. Las fechas 
 - **Fundamentos:** funciones, validación, POO y aplicaciones de escritorio.
 - **Aplicaciones y datos:** MVC, SQL, persistencia, listas enlazadas y máquinas de estados.
 - **Algoritmos:** grafos, búsqueda de rutas, índices y estructuras de datos avanzadas.
+- **Hackatones internacionales:** colaboración en equipo, WebMCP con OpenAI y evolución de CargoMesh con Nova y servicios de AWS para Amazon.
 
 Siempre abierto a intercambiar ideas y participar en proyectos que me permitan seguir aprendiendo.
