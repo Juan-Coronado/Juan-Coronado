@@ -18,9 +18,9 @@ Participamos en **The WebMCP Challenge**, organizada por **OpenAI**, del **25 de
 
 ### CargoMesh 2 — Amazon · Build, Ship, Shape
 
-Evolucionamos el producto en equipo para **Build, Ship, Shape: Amazon Developer Hackathon 2026**. La segunda etapa reúne portales Cliente y Carrier, solicitudes, ofertas, reservas y vistas de seguimiento, con backend compartido, datos por organización, asistencia conversacional Nova, mapas e integración MCP autenticada.
+Evolucionamos el producto en equipo para **Build, Ship, Shape: Amazon Developer Hackathon 2026**. La segunda etapa reúne portales Cliente y Carrier, solicitudes, ofertas, reservas y vistas de seguimiento, con backend compartido, datos por organización, un asistente de IA para la página web con **Amazon Nova mediante la API de Amazon Bedrock**, mapas e integración MCP autenticada.
 
-El proyecto incorpora visualización 3D con **23 diseños de camiones y 15 arquitecturas de sedes**. Utiliza TypeScript, JavaScript, Python, SQL, Next.js, React, Hono, Supabase/PostgreSQL, Three.js, Google Maps Platform, Amazon Bedrock Nova, AWS y Vercel, entre otras herramientas del equipo.
+El proyecto incorpora visualización 3D con **23 diseños de camiones y 15 arquitecturas de sedes**. Utiliza TypeScript, JavaScript, Python, SQL, Next.js, React, Hono, Supabase/PostgreSQL, Three.js, Google Maps Platform, Amazon Nova, Amazon Bedrock, Strands, AWS y Vercel, entre otras herramientas del equipo.
 
 La convocatoria de **Amazon** admitió entregas del **31 de agosto al 23 de octubre de 2026**. La documentación identifica Alexa+ como línea principal y trabajo relacionado con AWS Builder y Open Source. El calendario oficial prevé anunciar ganadores el **3 de diciembre de 2026**; no se afirma un resultado final.
 
